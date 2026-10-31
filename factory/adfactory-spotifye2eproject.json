@@ -1,0 +1,15 @@
+{
+	"name": "adfactory-spotifye2eproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "902c18b7-f418-49e8-9b2b-6f4d7d5d67c2",
+		"tenantId": "6481fd36-7249-4bb5-a478-d7edd6e8e096"
+	}
+}
