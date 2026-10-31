@@ -1,0 +1,15 @@
+{
+	"name": "adfactoryazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b8750da-b081-47cc-ac66-05843e89dd63",
+		"tenantId": "6481fd36-7249-4bb5-a478-d7edd6e8e096"
+	}
+}
